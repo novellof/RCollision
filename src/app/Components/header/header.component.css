@@ -1,0 +1,12 @@
+* {
+    margin: 0 auto;
+}
+.info {
+    float: right;
+    padding-right: 10px;
+}
+.head {
+    height: 25px;
+    background: red;
+    color: white;
+}
